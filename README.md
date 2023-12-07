@@ -30,17 +30,7 @@ POST /options/:id/add_vote: Increment the vote count for a specific option.
 
 GET /questions/:id   View a question and its options, including the votes given to each option.
 
-# How to Setup
-Download ZIP File and Extrat It.
-Open it with VS COde
-Set UP your own mongoose cluster.
-Open Terminal and Type "npm install"
-and Then Type "npm start" which will run the project.
-
 # Hosted Link:(https://polling-system-api-3gvy.onrender.com )
 
-To test, https://polling-system-api-x3h9.onrender.com/api/v1/ {related routes}
-
-Now Open Postman and Enjoy the Features!
 
 
