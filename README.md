@@ -37,7 +37,7 @@ Set UP your own mongoose cluster.
 Open Terminal and Type "npm install"
 and Then Type "npm start" which will run the project.
 
-# Hosted Link: https://polling-system-api-x3h9.onrender.com/
+# Hosted Link:(https://polling-system-api-3gvy.onrender.com )
 
 To test, https://polling-system-api-x3h9.onrender.com/api/v1/ {related routes}
 
