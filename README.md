@@ -30,28 +30,6 @@ POST /options/:id/add_vote: Increment the vote count for a specific option.
 
 GET /questions/:id   View a question and its options, including the votes given to each option.
 
-# Folder Structure:
-├── config
-│ --- └── mongoose.js
-├── controllers
-│ --- └──optionsController.js
-│ --- └──questionsController.js
-├── models
-│ --- ├── Options.js
-│ --- └── Questions.js
-├── routes
-│ --- ├── api
-│          ├── v1
-                ├── index.js
-                ├── option.js
-                ├── question.js
-            ├── index.js
-│ --- ├── index.js
-├── .gitignore
-├── package.json
-├── package-lock.json
-├── README.md
-└── index.js
 # Hosted Link:(https://polling-system-api-3gvy.onrender.com )
 
 
